@@ -1,0 +1,13 @@
+h1 {
+  text-align: center;
+  font-family: fantasy;
+
+}
+
+#output {
+  font-family: fantasy;
+  text-align: center;
+  margin-top: 1cm;
+  font-size: 25px;
+  display: none;
+}
